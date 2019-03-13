@@ -1,2 +1,2 @@
 # Pweb
-ini deskripsi
+Tugas ada di folder Tg
